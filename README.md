@@ -1,4 +1,4 @@
-# RAG ChatBot using Gemini
+-E# RAG ChatBot using Gemini
 RAG ChatBot is a real-time AI chatbot using FastAPI, React/TypeScript, and Google Gemini LLM.
 It answers user questions based on uploaded source using Retrieval-Augmented Generation (RAG).
 Ideal for document Q&A, customer support, or knowledge retrieval applications.
@@ -6,7 +6,7 @@ Ideal for document Q&A, customer support, or knowledge retrieval applications.
 
 ## ⚙️ Technologies & Languages
 
-**Backend:**
+**Back-End:**
 - **Python**  
 - **FastAPI** (API framework)  
 - **Uvicorn** (ASGI server)  
@@ -14,7 +14,7 @@ Ideal for document Q&A, customer support, or knowledge retrieval applications.
 - **Google Gemini API** (Embeddings & AI responses)  
 - **FAISS** (Vector store for similarity search)  
 
-**Frontend:**
+**Front-End:**
 - **React** + **TypeScript**  + **Tailwind CSS** 
 - Components: `ChatBox`, `ChatComponent`, `DarkModeButton`, `Input`, `Loading`, `Source`  
 
