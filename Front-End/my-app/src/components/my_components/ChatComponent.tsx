@@ -80,7 +80,7 @@ const ChatComponent = ({
                 FileUploadingStatus ? "hidden" : ""
               }`}
             >
-              Powered by gemini-2.5-flash
+              Powered by Gemini-2.5-flash
             </p>
             <p
               className={`text-gray-400 ${FileUploadingStatus ? "hidden" : ""}`}
@@ -122,3 +122,4 @@ const ChatComponent = ({
 };
 
 export default ChatComponent;
+
