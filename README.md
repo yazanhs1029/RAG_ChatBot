@@ -22,7 +22,7 @@ Ideal for document Q&A, customer support, or knowledge retrieval applications.
 - PDF only
 
 ## 💡 How It Works
-<img src="https://raw.githubusercontent.com/yazanhs1029/RAG_ChatBot/main/RAG_Chatbot%20-%20Copy.png" width="700" height="400"/>
+<img src="https://github.com/yazanhs1029/RAG_ChatBot/blob/main/RAG_Chatbot%20-%20Copy.png" width="700" height="400"/>
 
 1. **File-based Q&A (RAG mode):**
    - The backend receives a PDF file through the `/upload` endpoint (FastAPI running on **port 8000**).
