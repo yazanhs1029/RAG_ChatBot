@@ -51,12 +51,13 @@ Navigate to your project folder and activate the virtual environment:
 ```bash
 myenv\Scripts\activate
 ```
-### 2. Activate the server:
+### ✅ 2. Activate the server:
 ```bash
 uvicorn index:app --reload
 ```
 
-### 3. Front-End
+### ✅ 3.Activate the Front-End
+Navigate to your Front-End folder and activate the virtual environment:
 ```bash
 npm run dev
 ```
