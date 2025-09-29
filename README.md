@@ -44,12 +44,19 @@ https://rag-chat-bot-ebon.vercel.app/
    - The bot replies immediately, acting like a **normal chatbot**.
   
 ## 🚀 How to Run
-### Back-End:
+### ✅ 1. Activate the Back-End Virtual Environment
+
+Navigate to your project folder and activate the virtual environment:
+
+```bash
+myenv\Scripts\activate
+```
+### 2. Activate the server:
 ```bash
 uvicorn index:app --reload
 ```
 
-### Front-End
+### 3. Front-End
 ```bash
 npm run dev
 ```
