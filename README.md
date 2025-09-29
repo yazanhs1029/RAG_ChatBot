@@ -4,7 +4,7 @@ It answers user questions based on uploaded source using Retrieval-Augmented Gen
 Ideal for document Q&A, customer support, or knowledge retrieval applications.
 
 ## 💡 How It Works
-![Source Component Screenshot]("") 
+ 
 1. **File-based Q&A (RAG mode):**
    - The backend receives a PDF file through the `/upload` endpoint.
    - The PDF is read and split into smaller chunks using `RecursiveCharacterTextSplitter` from **LangChain**.
