@@ -17,8 +17,12 @@ https://rag-chat-bot-ebon.vercel.app/
 - **FAISS** (Vector store for similarity search)  
 
 **Front-End:**
-- **React** + **TypeScript**  + **Tailwind CSS** 
-- Components: `ChatBox`, `ChatComponent`, `DarkModeButton`, `Input`, `Loading`, `Source`  
+- **React**
+-  **TypeScript**
+-  **Tailwind CSS**
+
+ **Components:**
+    `ChatBox`, `ChatComponent`, `DarkModeButton`, `Input`, `Loading`, `Source`
 
 **Supported File Format for RAG:**  
 - PDF only
